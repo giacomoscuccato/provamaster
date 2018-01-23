@@ -1,0 +1,29 @@
+{
+  "name": "provaesame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "area.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giacomoscuccato/provaesame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giacomoscuccato/provaesame/issues"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
+  },
+  "homepage": "https://github.com/giacomoscuccato/provaesame#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
